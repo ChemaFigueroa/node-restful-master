@@ -3,7 +3,7 @@ Endpoint: POST /tipopago
 Permite agregar un nuevo tipo de pago.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     POST /tipopago
 
     Content-Type: application/json

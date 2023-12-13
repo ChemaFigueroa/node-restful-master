@@ -3,7 +3,7 @@ Endpoint: PATCH /categoria/{id}
 Permite reemplazar un dato de una categoría.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     PATCH /categoria/6
  
     Content-Type: application/json

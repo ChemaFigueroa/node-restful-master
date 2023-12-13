@@ -3,7 +3,7 @@ Endpoint: PUT /categoria/{id}
 Permite reemplazar una categoría.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     PUT /categoria/6
 
     Content-Type: application/json

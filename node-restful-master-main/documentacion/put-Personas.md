@@ -3,7 +3,7 @@ Endpoint: PUT /persona/{id}
 Permite reemplazar una persona.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     PUT /persona/6
 
     Content-Type: application/json

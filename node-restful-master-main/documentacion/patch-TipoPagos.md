@@ -3,7 +3,7 @@ Endpoint: PATCH /tipopago/{id}
 Permite reemplazar un dato de un tipo de pago.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     PATCH /tipopago/6
 
     Content-Type: application/json

@@ -3,7 +3,7 @@ Endpoint: POST /persona
 Permite agregar una nueva persona.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     POST /persona
 
     Content-Type: application/json

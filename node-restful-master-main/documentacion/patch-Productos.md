@@ -3,7 +3,7 @@ Endpoint: PATCH /producto/{id}
 Permite reemplazar un dato de un producto.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     PATCH /producto/6
 
     Content-Type: application/json

@@ -4,7 +4,7 @@ Permite reemplazar un producto.
 
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     PUT /producto/6
 
     Content-Type: application/json

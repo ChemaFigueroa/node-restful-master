@@ -3,7 +3,7 @@ Endpoint: POST /categoria
 Permite agregar una nueva categoría.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     POST /categoria
 
     Content-Type: application/json

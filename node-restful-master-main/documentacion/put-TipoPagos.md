@@ -3,7 +3,7 @@ Endpoint: PUT /tipopago/{id}
 Permite reemplazar un tipo de pago.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     PUT /tipopago/6
 
     Content-Type: application/json

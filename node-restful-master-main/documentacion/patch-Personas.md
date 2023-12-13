@@ -3,7 +3,7 @@ Endpoint: PATCH /persona/{id}
 Permite reemplazar un dato de una persona.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     PATCH /persona/6
 
     Content-Type: application/json
