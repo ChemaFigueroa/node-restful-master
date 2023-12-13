@@ -1,7 +1,5 @@
 # API RESTful con Node.js
 
-Proyecto de demostración para clases de desarrollo de APIs utilizando Node.js,
-con implementación en contenedores de Docker.
 
 ## Tabla de contenido
 
@@ -23,7 +21,7 @@ Asegúrate de tener instalado y configurado Docker antes de comenzar.
 1. Clonar el repositorio en la máquina local:
    
    ```sh
-   git clone https://github.com/francerz/node-restful.git
+   git clone https://github.com/ChemaFigueroa/node-restful-master.git
    ```
 
 2. Navegar al directorio del proyecto:
@@ -49,7 +47,7 @@ Asegúrate de tener instalado y configurado Docker antes de comenzar.
 ## Documentación detallada
 
 Para obtener información detallada sobre los endpoints y cómo utilizar la API,
-consulta la [documentación detallada](./docs/README.md).
+consulta la [documentación detallada](node-restful-master-main\documentacion\README.md).
 
 ## Enlaces externos
 
