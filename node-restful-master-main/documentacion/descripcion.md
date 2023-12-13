@@ -1,0 +1,5 @@
+Realizare un sistemas dirigido  para las  empresasa, en este caso va dirigido para las ferreterias,
+este sistema les ayudara para algunas comosas como aplicar su mercado fisico al mercado digital, para ello 
+estoy pensando dearollar este proyecto en react, js y en la base de datos no estoy muy seguro, pero creare barios usaurios para su uso pero por defecto el susper usuario, en este sitemas las ferreterias tendran un apartado ya sea para vender  o comprar, de igual manera are un apratdo para que las personas fisicas que quieran tener un ingreso extra lo pueda tener a travez de las ventas de este sistemas, una de las facilidades seria la logistica ya determinadna por el sistemas, algunas otras facilidades que pueda tener el sistema o que llamen la atencion seria que tenga una buena animacion y una buena conjuncion  de colores para el usuario final, este sistemas esta pensado y motivado por que yo trabajo en una ferreteria
+en la cual quiero poner su mercado fisco en el digital por eso comente anteioror mente, este es un sistemas semjante o con
+una idea como un mercado libre pero enfocado en una rama que serian las ferreterias.
