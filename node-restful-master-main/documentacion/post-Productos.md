@@ -3,10 +3,10 @@ Endpoint: POST /producto
 Permite agregar un nuevo producto.
 
 ## Ejemplo de Solicitud
- ``` json
+ ```http
     POST /producto
-
     Content-Type: application/json
+
     {
         "Nombre": "Nombre del nuevo producto",
         "Precio": 99.99,
@@ -14,7 +14,7 @@ Permite agregar un nuevo producto.
     }
  ``` 
 ## Respuesta Exitosa (Código 200 OK)
- ``` json
+ ```json
     {
         "status": 201,
         "message": "Created"
@@ -22,7 +22,7 @@ Permite agregar un nuevo producto.
  ``` 
 ## Respuestas de Errores Posibles
 - Código 400 Bad Request:
-``` json 
+```json 
         {
             "errno": 400,
             "error": "Bad Request"
